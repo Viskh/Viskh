@@ -1,6 +1,6 @@
 ### Мои проекты:
-- Gym: [Client](https://github.com/Viskh/Gym-client) | [Server](https://github.com/Viskh/Gym-server)
-- Car-service: [Client](https://github.com/Viskh/car-services-client) | [Server](https://github.com/Viskh/car-services-server)
+- Gym: [Client](https://github.com/Viskh/Gym-client) 
+- Car-service: [Client](https://github.com/Viskh/car-services-client) 
 
 ____
 
@@ -31,13 +31,14 @@ ____
 
 ____
 
+### Статистика:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viskh&show_icons=true&theme=tokyonight)
+
+____
+
 ### Связаться:
 
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/viskhanovramzan)
 [![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)](https://wa.me/79679499541)
 
-____
-
-### Статистика:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viskh&show_icons=true&theme=tokyonight)
