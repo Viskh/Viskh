@@ -1,7 +1,7 @@
 ### Мои проекты:
 
-- Gym: [Kod](https://github.com/Viskh/Gym-client) 
-- Car-service: [Kod](https://github.com/Viskh/car-services-client) 
+- Gym: [Kod](https://github.com/Viskh/Gym-client) | [Демо](https://my-project-gym.herokuapp.com/)
+- Car-service: [Kod](https://github.com/Viskh/car-services-client) | [Демо](https://my-project-gym.herokuapp.com/)
 
 ____
 
