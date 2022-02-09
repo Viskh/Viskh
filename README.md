@@ -1,7 +1,6 @@
-### Мои проекты:
+### Последний проект:
 
 - Gym: [Код](https://github.com/Viskh/Gym) | [Демо](https://my-project-gym.herokuapp.com/)
-- Car-service: [Код](https://github.com/Viskh/car-services) 
 
 ____
 
