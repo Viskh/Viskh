@@ -1,9 +1,3 @@
-### Последний проект:
-
-- Gym: [Код](https://github.com/Viskh/Gym) | [Демо](https://my-project-gym.herokuapp.com/)
-
-____
-
 
 ### Связаться со мной:
 
